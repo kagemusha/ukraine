@@ -1,0 +1,22 @@
+main {
+    margin: 40px;
+}
+
+.banner-top {
+    height: 5px;
+    margin-bottom: 5px;
+    background-color: #005BBB; 
+    width: 100%;
+}
+
+.banner-bottom {
+    height: 5px;
+    margin-top: 5px;
+    background-color: #FFD500;
+    width: 100%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
