@@ -4,19 +4,56 @@ main {
 
 .banner-top {
     height: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     background-color: #005BBB; 
     width: 100%;
 }
 
 .banner-bottom {
     height: 5px;
-    margin-top: 5px;
+    margin-top: 10px;
     background-color: #FFD500;
     width: 100%;
 }
 
-.center {
+.banner {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    height: 80px;
+}
+
+.helpu-btn {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 6px;
+    margin: 10px 0;
+}
+
+a.helpu-btn {
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    text-align: center;
+    background-color: black;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 6px;
+    margin: 10px 0;
+}
+
+.main-menu {
+    display: flex;
+    justify-content: left;
+}
+
+.main-menu a {
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+    margin-top: 4px;
+    margin-left: 15px;
 }
