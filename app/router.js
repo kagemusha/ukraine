@@ -7,6 +7,10 @@ export default class Router extends EmberRouter {
 }
 
 Router.map(function () {
+  this.route('index', { path: '/' });
+  this.route('heroes');
+  this.route('armaments');
   this.route('battlefields');
   this.route('help');
+  this.route('russia-resources');
 });
