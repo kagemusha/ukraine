@@ -57,3 +57,8 @@ a.helpu-btn {
     margin-top: 4px;
     margin-left: 15px;
 }
+
+.hero-img {
+    max-width: 200px;
+    max-height: 200px;
+}

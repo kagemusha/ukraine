@@ -1,5 +1,6 @@
 import Component from '@glimmer/component';
-
+const peopleImgDir = '/assets/images/people';
 export default class HeroComponent extends Component {
-    image = `/assets/image/${this.args.hero.i}`;
+  imageCiv = `${peopleImgDir}/${this.args.hero.ic}`;
+  imageMil = `${peopleImgDir}/${this.args.hero.im}`;
 }
