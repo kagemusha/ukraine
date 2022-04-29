@@ -3,7 +3,7 @@ const people = [
   {
     n: 'Vaisily Lomachenko',
     d: `Before the invasion, former champion Lomachenko was negotiating with current
-            champion Kambosis to fight for the belts in a fight Lomachenko was widely expected
+            champion George Kambosis Jr to fight for the belts in a fight Lomachenko was widely expected
             to win.  Instead, Lomachenko returned to fight for Ukraine and is serving with.  After his
             service, he'll likely face the winner of Kambosis - Haney.
      `,
@@ -19,18 +19,40 @@ const people = [
     im: 'poro-m.png',
   },
   {
-    n: 'Klitschko brothers',
-    d: '',
+    n: 'Vitali and Wladimir Klitschko',
+    d: `The Klitschko brothers are Hall of Fame boxers who dominated the heavyweight division for a decade.
+            Wladimir joined the reserves as the threat of invasion was growing, and Vitaly, in his capacity as mayor,
+            has been intimately involved in the defense of Kyiv.
+          `,
     ic: 'klit-c.png',
     im: 'klit-m.png',
-    link: '',
+    // link: '',
+  },
+  {
+    n: 'Anastasiia Lenna',
+    d: `While Anastasiia Lenna, Miss Ukraine 2015, did not actually join up to fight, she's helping 
+            answer every beauty pageant's favorite question: how to secure world peace. In cases where
+            your country is facing a brutal invasion, refer to pic on the right.
+    `,
+    ic: 'lenn-c.png',
+    im: 'lenn-m.png',
+    // link: '',
   },
   {
     n: 'Ivan Mishchenko',
-    d: `Ivan Mishchenko is a Ukrainian Supreme Court judge.  A Supreme Court judge. Need we say more`,
-    link: 'https://abovethelaw.com/2022/03/ukrainian-supreme-court-judge-earns-fierce-nickname-after-leaving-bench-for-battle-against-russia/',
+    d: `Ivan Mishchenko is a Ukrainian Supreme Court judge.  A Supreme Court judge. Need we say more?`,
+    // link: 'https://abovethelaw.com/2022/03/ukrainian-supreme-court-judge-earns-fierce-nickname-after-leaving-bench-for-battle-against-russia/',
     ic: 'mish-c.png',
     im: 'mish-m.png',
+  },
+  {
+    n: 'Kira Rudyk',
+    d: `Rudyk was head of Ring Ukraine, before becoming a politician. She is currently a member the Ukrainian
+        Parlaiment and head of the Voice party. She spends two hours a day on weapons training and has vowed to
+        help defend her homeland.`,
+    ic: 'rudi-c.png',
+    im: 'rudi-m.png',
+    // link: '',
   },
   {
     n: 'Maksim Kagal',
@@ -38,14 +60,16 @@ const people = [
             sacrific. He was killed defending Mariupol from Russian forces in March.`,
     ic: 'kaga-c.png',
     im: 'kaga-m.png',
-    link: 'https://www.mirror.co.uk/sport/other-sports/kickboxing-world-champion-killed-ukraine-26579971',
+    // link: {t: 'Maksim Kagal killed', url: 'https://www.mirror.co.uk/sport/other-sports/kickboxing-world-champion-killed-ukraine-26579971'},
   },
   {
     n: 'Andriy Khlyvnyuk',
-    d: '',
+    d: `Andriy Khlyvnyuk is front-man for popular Ukrainian band Boombox.  Along with his bandmates,
+            he joined the Territorial Defense Forces where he was injured in a Russian mortar attack.  He has
+            also recorded a version of the Ukrainian folksong Red Vibernum with none other than David Gilmour of Pink Floyd.`,
     ic: 'khly-c.png',
     im: 'khly-m.png',
-    link: '',
+    link: {t: 'Hey Hey Rise Up with David Gilmour', url: 'https://www.youtube.com/watch?v=saEpkcVi1d4'},
   },
 ];
 
