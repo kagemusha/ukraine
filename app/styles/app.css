@@ -27,14 +27,14 @@ main {
     height: 80px;
 }
 
-.helpu-btn {
+.help-btn {
     text-align: center;
-    color: white;
-    background-color: black;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    border-radius: 8px;
-    padding: 6px;
-    margin: 10px 0;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 8px;
 }
 
 a.helpu-btn {
