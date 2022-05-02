@@ -7,5 +7,5 @@ export default class CountdownComponent extends Component {
     today = new Date();
     warDay = Math.ceil((this.today - this.day1)/DAY) 
     tillIndep = Math.ceil((this.indepDay - this.today )/DAY) 
-    widthPct = Math.ceil(this.warDay/(this.warDay+this.tillIndep)*100);
+    widthPct = Math.ceil(this.tillIndep/(this.warDay+this.tillIndep)*100);
 }
