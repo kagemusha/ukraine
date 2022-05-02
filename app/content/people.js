@@ -17,6 +17,7 @@ const people = [
             his passport to authorities, he is currently commanding a battalion of the Territorial Defence Forces.`,
     ic: 'poro-c.png',
     im: 'poro-m.png',
+    iic: 'loma-c_wZpHZyrPl.png',
   },
   {
     n: 'Vitali and Wladimir Klitschko',
