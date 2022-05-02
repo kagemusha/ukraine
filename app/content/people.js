@@ -9,6 +9,8 @@ const people = [
      `,
     ic: 'loma-c.png',
     im: 'loma-m.png',
+    iic: 'loma-c_wZpHZyrPl.png',
+    iim: 'loma-m_NnSDRmkpk.png',
   },
   {
     n: 'Poro Poroshenko',
@@ -17,7 +19,8 @@ const people = [
             his passport to authorities, he is currently commanding a battalion of the Territorial Defence Forces.`,
     ic: 'poro-c.png',
     im: 'poro-m.png',
-    iic: 'loma-c_wZpHZyrPl.png',
+    iic: 'poro-c_a25gUhN9G.png',
+    iim: 'poro-m_RBOGKecyz.png',
   },
   {
     n: 'Vitali and Wladimir Klitschko',
@@ -27,6 +30,8 @@ const people = [
           `,
     ic: 'klit-c.png',
     im: 'klit-m.png',
+    iic: 'klit-c_DuiUq4Ajj.png',
+    iim: 'klit-m_3nVN6MTVaP.png',
     // link: '',
   },
   {
@@ -37,6 +42,8 @@ const people = [
     `,
     ic: 'lenn-c.png',
     im: 'lenn-m.png',
+    iic: 'lenn-c_a3tAABAjb.png',
+    iim: 'lenn-m_33uBlYOBE.png',
     // link: '',
   },
   {
@@ -45,6 +52,8 @@ const people = [
     // link: 'https://abovethelaw.com/2022/03/ukrainian-supreme-court-judge-earns-fierce-nickname-after-leaving-bench-for-battle-against-russia/',
     ic: 'mish-c.png',
     im: 'mish-m.png',
+    iic: 'mish-c_z7JLF8ohX.png',
+    iim: 'mish-m_lQBjBC1Y3.png',
   },
   {
     n: 'Kira Rudyk',
@@ -53,6 +62,8 @@ const people = [
         help defend her homeland.`,
     ic: 'rudi-c.png',
     im: 'rudi-m.png',
+    iic: 'rudi-c_5pEpTWAEc.png',
+    iim: 'rudi-m_gtBabHN14.png',
     // link: '',
   },
   {
@@ -61,6 +72,8 @@ const people = [
             sacrific. He was killed defending Mariupol from Russian forces in March.`,
     ic: 'kaga-c.png',
     im: 'kaga-m.png',
+    iic: 'kaga-c_5B85bZCl9.png',
+    iim: 'kaga-m_MjT6aKYYm.png',
     // link: {t: 'Maksim Kagal killed', url: 'https://www.mirror.co.uk/sport/other-sports/kickboxing-world-champion-killed-ukraine-26579971'},
   },
   {
@@ -70,6 +83,8 @@ const people = [
             also recorded a version of the Ukrainian folksong Red Vibernum with none other than David Gilmour of Pink Floyd.`,
     ic: 'khly-c.png',
     im: 'khly-m.png',
+    iic: 'khly-c_2dlP6IYo9.png',
+    iim: 'khly-m_xMlSZdZPJ.png',
     link: {t: 'Hey Hey Rise Up with David Gilmour', url: 'https://www.youtube.com/watch?v=saEpkcVi1d4'},
   },
 ];
