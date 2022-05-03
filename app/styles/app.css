@@ -40,12 +40,21 @@ a.help-btn {
     display: flex;
     justify-content: left;
 }
+
 .main-menu a {
-    font-size: 18px;
+    font-size: 14px;
     text-decoration: none;
     display: block;
     margin-top: 4px;
     margin-left: 15px;
+    width: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+
+}
+
+.main-menu a:hover {
+     color: #005BBB; 
 }
 
 .countdown {
