@@ -66,7 +66,10 @@ const people = [
             also recorded a version of the Ukrainian folksong Red Vibernum with none other than David Gilmour of Pink Floyd.`,
     ic: 'khly-c_2dlP6IYo9.png',
     im: 'khly-m_xMlSZdZPJ.png',
-    link: {t: 'Hey Hey Rise Up with David Gilmour', url: 'https://www.youtube.com/watch?v=saEpkcVi1d4'},
+    link: {
+      t: 'Hey Hey Rise Up with David Gilmour',
+      url: 'https://www.youtube.com/watch?v=saEpkcVi1d4',
+    },
   },
 ];
 
