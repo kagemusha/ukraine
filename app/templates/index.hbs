@@ -1,55 +1,24 @@
 <Countdown />
 
+<div class="main-timeline">
 
-<table>
-    <tr>
-        <td>
-            <img style='height: 100px ' src="/assets/images/ammo.jpeg"/> 
-        </td>
-        <td>
-            <p>Remember when Kyiv was supposed to fall in three days and the US was urging Zelensky 
-                to evacuate? Remember how many times we've heard Mariupol will surrender in the
-                next few days? Well Ukraine has thumped Russian forces in the Battles of Kiev and Sumy
-            and is pushing in Kharkiv and Kherson. Russia is making precious little progress in the East, and Mariupol still stands.
-            </p>
-        </td>
-    </tr>
-</table> 
+    {{#each this.model as |event|}}
+        <TimelineEvent @event={{event}} />
+    {{/each}}
 
-    <p>Every day Ukraine gets more and better weapons from the West, and its men and women, along
-     with trained foreign soldiers, flock to its armed forces.  As Ukraine gets more and more artillery
-     and drones that can operate beyond the range of Russian counterparts, the beatdown Russian forces
-     are taking is just gotta get worse.</p>
-    
-<table>
-    <tr>
-        <td>
-            <p>Russia, meanwhile, grows weaker by the day. Its soldiers don't want to fight. Its general are getting sacked
-                    or killed.  Sanctions strangle its economy
-                    and it cannot replace lost weaponry.  Its logistics are so bad, it often can't even get the equipment it needs, or 
-                    even food and fuel, to its forces.  Sabotage is making this even worse.  Even if Russia were a first-rate power -- 
-                    it's obviously not -- it doesn't have the resources to fight a Western world that is increasing horrified by Russian 
-                    atrocities, and increasingly willing to supply Ukraine whatever it needs to regrain its freedom.
-            </p>
-        </td>
-        <td>
-            <img style='height: 120px ' src="/assets/images/bear-sunflowers.jpeg"/> 
-        </td>
-    </tr>
-</table>
+    <div class="victory-event">
+        <div class="victory-date">
+            <span class="event-date-day">Day 182</span>
+            <span class="victory-date-text">Independence Day 2022</span>
+            <span class="event-date-date">2022-08-24</span>
+        </div>
 
-<h3> Hard Fighting Ahead</h3>
-<p>This doesn't mean it will be a cakewalk. Even with the pounding Russia is taking, it still has
-    tremendous firepower in Ukraine and a huge supply of missiles it is all too willing to launch. Even
-    if it can't win in the field, it will do its best to destroy Ukrainian cities, and kill and maim as many
-    Ukrainian soldiers and civilians as it can. And there is always the specter of weapons of mass 
-    destruction. But use of these latter would be the nail in Russia's coffin, because it would almost certainly
-    draw a Nato response. And without those weapons, the Russian war machines will continue to be ground to scrap
-    metal.
-</p>
-<h3>But the Tide is Turning</h3>
-<p>In the next 100 days, we expect the tide to have turned. Russia will no longer have
-    the initiative. They will have no ability to launch large attacks and limited ability to
-    conduct smaller operations. Ukraine will be steadily gaining territory, will take Kherson
-    and Khakova, and the liberation of Mariupol will in sight, if not reality.
-</p>
+        <div class="event-text">
+                The orcs will be scurrying back to the Misty Mountains and the era of a
+                free Ukraine will be dawning
+        </div>
+        <div class="event-image">
+            <Image @src='independence_momument_XoczqK_Dq.png' />
+        </div>
+    </div>
+</div>
