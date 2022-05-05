@@ -18,15 +18,16 @@ const songs = [
         vid: 'tj7bgjirNfQ' ,
         t: ``,
     },
-
     {
-
+        n: 'Pour pour pour',
+        vid: '5wnBt74XI8s',
+        t: ``,
+    },
+    {
         n: 'razom nas bahato ',
         vid: 'PZLmE1OW2nU',
         t: ``,
     },
-]; 
-const temp = [    
     {
         n: 'Не Відступати і Не Здаватись' ,
         vid: 'QTdJkYkkQBQ',
@@ -48,16 +49,17 @@ const temp = [
         t: ``,
     },
     {
-
         n: '25 yrs concert Okean Elzy ',
         vid: 'z4Vvf6MxjMI',
         t: ``,
     },
     {
-        n: "I am ukrainian",
-        vid: '',
+        n: "Віктор Винник і МЕРІ - Я з України I from Ukraine",
+        vid: 'up6j27eMjU8',
         t: ``,
     },
+]; 
+const temp = [    
     {
         n: "I have no home?",
         vid: '',
@@ -103,11 +105,6 @@ const temp = [
         vid: '',
         t: ``,
     },
-    {
-        n: '',
-        vid: '',
-        t: ``,
-    },
 ];
 
 export default songs;
@@ -117,8 +114,6 @@ const candidates= [
     "I have no home?",
     "We will never be brothers"
     "1944",
-6hm0V49nsjw
-Charity concert of the band Okean Elzy “All Is Going to Be Alright” M96cN79ONdI'
 
 25 yrs concert Okean Elzy z4Vvf6MxjMI
 "Okean Elzy - Misto Marii", "https://www.youtube.com/watch?v=grRiTn1Lm2A" 
