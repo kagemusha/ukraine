@@ -1,8 +1,10 @@
 <div class="song">
-    <div>{{@song.n}}</div>
-    <div>
-        <a href='{{this.watch}}'>Watch</a>'
+    <div class="song-iframe">
+        <iframe width="400px" height="225px" src="{{this.src}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
     </div>
-    <iframe width="560" height="315" src="{{this.src}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-    <div>{{@song.t}}</div>
+    <div class="song-details">
+        <div class="song-name">{{@song.n}}</div>
+        <div class="song-artist">{{@song.a}}</div>
+        <div class="song-text">{{{@song.t}}}</div>
+    </div>
 </div>
