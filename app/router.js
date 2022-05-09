@@ -13,5 +13,9 @@ Router.map(function () {
   this.route('battlefields');
   this.route('help');
   this.route('russia-resources');
-  this.route('culture');
+
+  this.route('culture', function () {
+    this.route('songs');
+    this.route('art');
+  });
 });
