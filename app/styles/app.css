@@ -98,6 +98,7 @@ a.help-btn {
     font-family: 'Courier New', Courier, monospace;
     font-size: 22px;
     font-weight: bold;
+    text-align: center;
 }
 
 .countdown-bar {
@@ -117,6 +118,30 @@ a.help-btn {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
 }
+.todays-news {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 100%; */
+    margin: 60px 12px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 16px;
+}
+
+.todays-news h3 {
+    margin-top: 0px;
+    font-family: arial;
+    font-style: italic;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h3.special-item {
+    margin: 25px;
+    font-size: 26px;
+}
+
 
 .main-timeline {
     margin: 4px 12px;
