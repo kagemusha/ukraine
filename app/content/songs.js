@@ -42,10 +42,12 @@ const songs = [
         in the ruins of a in Kharkiv, bombed by the Russians`,
   },
   {
-    n: 'Ukrainian Melody',
+    n: 'Melody',
     a: 'Myroslav Skoryk',
     vid: 'NtObcD4Gjeo',
-    t: ``,
+    t: `A piece so famous that some Ukranians think it comes from folk music and
+      some consider it a second national anthem. In actuality it was composed by 
+      Ukraine's greatest contemporary composer, Myroslav Skoryk, who died in 2020`,
   },
   {
     n: '1944',
@@ -107,6 +109,10 @@ const songs = [
             concerts in Ukraine ever`,
   },
 ];
+
+export default songs;
+
+/*
 const temp = [
   {
     n: 'Не Відступати і Не Здаватись',
@@ -134,8 +140,8 @@ const temp = [
     t: ``,
   },
   {
-    n: '',
-    vid: '',
+    n: 'National Anthem played by soldier on violin',
+    vid: 'DN_KFc9dhNg',
     t: ``,
   },
   {
@@ -160,8 +166,6 @@ const temp = [
   },
 ];
 
-export default songs;
-/*
 const candidates= [
     "I am ukrainian",
     "I have no home?",
