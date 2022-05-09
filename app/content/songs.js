@@ -105,7 +105,7 @@ const songs = [
     n: '25th Anniversay of Independence Concert',
     a: 'Okean Elzy',
     vid: 'z4Vvf6MxjMI',
-    t: `Okean Elzy again, celebrated Ukrainian Independence in one of the biggest
+    t: `Okean Elzy again, celebrating Ukrainian Independence in one of the biggest
             concerts in Ukraine ever`,
   },
 ];
