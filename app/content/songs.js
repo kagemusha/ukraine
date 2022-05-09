@@ -88,7 +88,7 @@ const songs = [
             against Russian-backed Victor Yanokuvich, who tried to steal the presidentail election`,
   },
   {
-    n: 'Charity concert of the band Okean Elzy All Is Going to Be Alright ',
+    n: 'Okean Elzy charity concert All Is Going to Be Alright ',
     vid: 'M96cN79ONdI',
     t: `Okean Elzy” played a charity concert in the Golden Gate metro station in Kyiv, which 
             had been used as a bomb shelter.  Proceeds from the TV version are being donated to 
