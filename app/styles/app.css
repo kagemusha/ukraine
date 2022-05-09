@@ -174,8 +174,8 @@ a.help-btn {
 }
 
 .song-details {
-    margin: 0 20px 10px 20px;
-    width: 500px;
+    margin: 10px 20px;
+    width: 432px;
     font-size: 15px;
 }
 .song-name {
@@ -186,3 +186,16 @@ a.help-btn {
 .song-text {
     margin-top: 15px;
 }
+
+.song-cards {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+  }
+
+.song-card {
+    padding: 1rem;
+    max-height: 243px;
+  }

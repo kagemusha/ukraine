@@ -1,5 +1,7 @@
 {{page-title "Songs"}}
 <h2>Songs</h2>
-{{#each this.model.songs as |song| }}
-    <Song @song={{song}}/>
-{{/each}}
+<div class="song-cards">
+    {{#each this.model.songs as |song| }}
+        <Song @song={{song}}/>
+    {{/each}}
+</div>
