@@ -7,8 +7,8 @@ export default class IndexController extends Controller {
       url: 'https://twitter.com/Telegraph/status/1523607492290252800',
     },
     {
-      t: 'UA Forces Counterattacking in Kharkiv',
-      url: 'https://twitter.com/sjenningsfan1/status/1523617856952307712',
+      t: 'Orcs under pressure north of Kharkiv',
+      url: 'https://twitter.com/worldonalert/status/1524097088128262148',
     },
     {
       t: `Russian 'Donbass Offensive' continues with little to show`,
