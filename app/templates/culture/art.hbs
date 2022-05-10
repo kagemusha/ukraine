@@ -1,1 +1,7 @@
 {{page-title "Art"}}
+
+<div class="art-cards">
+    {{#each this.model as |image| }}
+        <ArtImage @image={{image}}/>
+    {{/each}}
+</div>
