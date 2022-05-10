@@ -2,9 +2,9 @@ import Route from '@ember/routing/route';
 import { service } from '@ember/service';
 
 export default class CultureIndexRoute extends Route {
-    @service router;
+  @service router;
 
-    beforeModel() {
-        this.router.transitionTo('culture.songs'); 
-      }
+  beforeModel() {
+    this.router.transitionTo('culture.songs');
+  }
 }
