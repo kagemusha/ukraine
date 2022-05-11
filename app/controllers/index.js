@@ -3,12 +3,16 @@ import Controller from '@ember/controller';
 export default class IndexController extends Controller {
   todaysLinks = [
     {
-      t: 'Moscow Victory Day Parade nothing burger',
-      url: 'https://twitter.com/Telegraph/status/1523607492290252800',
+      t: 'Killed-in-action Russian colonel count hits 40',
+      url: 'https://www.independent.co.uk/news/world/europe/putin-loses-39th-colonel-kharkiv-b2075368.html',
     },
     {
-      t: 'Orcs under pressure north of Kharkiv',
-      url: 'https://twitter.com/worldonalert/status/1524097088128262148',
+      t: 'UA forces north of Kharkiv close in on Russian border',
+      url: 'https://twitter.com/War_Mapper/status/1523815508029714434',
+    },
+    {
+      t: 'May 9th: scaled-back parade. "Adverse weather" cancels flyover',
+      url: 'https://www.newsweek.com/russia-cancels-military-flyovers-victory-day-may-9-adverse-weather-1704656',
     },
     {
       t: `Russian 'Donbass Offensive' continues with little to show`,

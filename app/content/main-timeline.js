@@ -57,7 +57,11 @@ const events = [
   },
   {
     d: '2022-05-09',
-    t: `PREDICTION: Russia's Victory Day Parade will <b><i>suck ass</i></b> as Ukraine
+    t: `<p>
+          In line with our prediction below, the Victory Day Parade <b><i>sucked ass</i></b>.
+          Flyovers were cancelled because of 'adverse weather'.  Was it the winds blowing in from
+          Ukraine? </p>
+        PREDICTION: Russia's Victory Day Parade will <b><i>suck ass</i></b> as Ukraine
         counterattacks, and even Putin's propaganda machine will be embarrassed by the contortions needed to
             conjure any semblance of victory.`,
     i: '',
