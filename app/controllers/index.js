@@ -3,7 +3,15 @@ import Controller from '@ember/controller';
 export default class IndexController extends Controller {
   todaysLinks = [
     {
-      t: 'Killed-in-action Russian colonel count hits 40',
+      t: 'Latest Russian loss estimates: 26,350 troops, 1187 tanks, 199 planes...',
+      url: 'https://twitter.com/KyivIndependent/status/1524287668464541697',
+    },
+    {
+      t: 'Latest battlefield assessment',
+      url: 'https://twitter.com/JominiW/status/1524228712325160960',
+    },
+    {
+      t: 'Dead Russian colonel count hits 40',
       url: 'https://www.independent.co.uk/news/world/europe/putin-loses-39th-colonel-kharkiv-b2075368.html',
     },
     {
@@ -13,10 +21,6 @@ export default class IndexController extends Controller {
     {
       t: 'May 9th: scaled-back parade. "Adverse weather" cancels flyover',
       url: 'https://www.newsweek.com/russia-cancels-military-flyovers-victory-day-may-9-adverse-weather-1704656',
-    },
-    {
-      t: `Russian 'Donbass Offensive' continues with little to show`,
-      url: 'https://www.ukrinform.net/rubric-ato/3478614-enemy-forces-continue-offensive-effort-in-ukraines-east-general-staff.html',
     },
     {
       t: 'Latest Russian War Crime: School Shelter Bombing kills Dozens',
