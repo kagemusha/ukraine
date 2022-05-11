@@ -34,7 +34,6 @@ main {
     position: relative;
 }
 
-
 .banner-image img {
     height: 100%;
 }
@@ -71,7 +70,6 @@ a.help-btn {
     width: 50px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
-
 }
 
 .main-menu a:hover {
@@ -261,3 +259,45 @@ h3.special-item {
   .art-card img {
       width: 100%;
   }
+
+.visitor-cards {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    max-width: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+  }
+
+.visitor-card {
+    padding: 1rem;
+    max-width: 400px;
+    margin-top: 20px;
+    overflow: hidden;
+  }
+
+  .visitor-card img {
+      width: 100%;
+  }
+
+.visitor-name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.visitor-date {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 2px 0 10px 0;
+}
+
+h3.visitors {
+    margin-top: 0px;
+    font-family: arial;
+    font-style: italic;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p.visitors {
+    text-align: center;
+}

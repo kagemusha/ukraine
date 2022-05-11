@@ -18,4 +18,5 @@ Router.map(function () {
     this.route('songs');
     this.route('art');
   });
+  this.route('visitors');
 });
