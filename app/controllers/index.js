@@ -3,6 +3,10 @@ import Controller from '@ember/controller';
 export default class IndexController extends Controller {
   todaysLinks = [
     {
+      t: 'Message from Ukraine to Poland: Dziękujemy',
+      url: 'https://twitter.com/visegrad24/status/1524304961202540545',
+    },
+    {
       t: 'Latest Russian loss estimates: 26,350 troops, 1187 tanks, 199 planes...',
       url: 'https://twitter.com/KyivIndependent/status/1524287668464541697',
     },
