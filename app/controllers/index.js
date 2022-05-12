@@ -1,14 +1,27 @@
 import Controller from '@ember/controller';
-
+/*
+  {
+    t: "", 
+    url: ''
+  },
+*/
 export default class IndexController extends Controller {
   todaysLinks = [
     {
-      t: 'Message from Ukraine to Poland: Dziękujemy',
-      url: 'https://twitter.com/visegrad24/status/1524304961202540545',
+      t: "Poland issues stamp commemorating Zelensky's leadership",
+      url: 'https://twitter.com/ukraine_world/status/1524718178261258246',
     },
     {
-      t: 'Latest Russian loss estimates: 26,350 troops, 1187 tanks, 199 planes...',
-      url: 'https://twitter.com/KyivIndependent/status/1524287668464541697',
+      t: 'May12th Russian loss estimates: 26,650 troops, 1195 tanks, 199 planes...',
+      url: 'https://twitter.com/KyivIndependent/status/1524663646009372673',
+    },
+    {
+      t: 'Lend-lease done; US House passes $40B aid package for Ukraine',
+      url: 'https://www.axios.com/2022/05/11/house-passes-40-billion-ukraine-bill',
+    },
+    {
+      t: 'Message from Ukraine to Poland: Dziękujemy',
+      url: 'https://twitter.com/visegrad24/status/1524304961202540545',
     },
     {
       t: 'Latest battlefield assessment',
@@ -27,13 +40,8 @@ export default class IndexController extends Controller {
       url: 'https://www.newsweek.com/russia-cancels-military-flyovers-victory-day-may-9-adverse-weather-1704656',
     },
     {
-      t: 'Latest Russian War Crime: School Shelter Bombing kills Dozens',
-      url: 'https://www.cnn.com/2022/05/08/europe/luhansk-school-bombing-ukraine-russia-intl/index.html',
-    },
-    {
-      t: 'Mariupol Heroes Continue to Hold Out',
-      url: 'https://www.theguardian.com/world/2022/may/08/surrender-is-not-an-option-azov-battalion-commander-in-plea-for-help-to-escape-mariupol',
+      t: "Mariupol: Azovstal remains defiant",
+      url: 'https://twitter.com/mnogobitka/status/1524759610997059585',
     },
   ];
 }
-// {t: '', url: ''},
