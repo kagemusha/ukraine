@@ -6,6 +6,10 @@
 */
 const items = [
     {
+    t: "Nato to get reindeer; meatballs to follow (apologies to Finland and Sweden for our silly title :-)", 
+    url: 'https://bnn-news.com/finland-announces-intention-to-join-nato-234657'
+    },
+    {
       t: "Poland issues stamp commemorating Zelensky's leadership",
       url: 'https://twitter.com/ukraine_world/status/1524718178261258246',
     },
