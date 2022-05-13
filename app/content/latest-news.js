@@ -10,6 +10,10 @@ const items = [
     url: `https://twitter.com/KyivIndependent/status/1525045560390168579`,
   },
   {
+    t: `UA wipe out entire Russian battalion at the Donets River`,
+    url: `https://twitter.com/i/events/1525028551010951168`,
+  },
+  {
     t: `May 12 ISW Repport: UA Kharrkiv counterattack continues; Russian troubles at Izium`,
     url: 'https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-may-12',
   },
