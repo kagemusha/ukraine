@@ -7,6 +7,11 @@ main {
     margin: 40px;
 }
 
+.intel-outer {
+    display: flex;
+    justify-content: center;
+}
+
 .banner-top {
     height: 5px;
     margin-bottom: 10px;
@@ -305,4 +310,59 @@ p.visitors {
 .minor-breaking-news {
     text-align: center;
     font-size:  16px;
+}
+.intel-outer {
+    font-size: 16px;
+}
+
+.intel-outer h1 {
+    margin-bottom: 2px;
+    font-size: 36px;
+}
+
+.intel-section {
+    margin-bottom: 20px;
+}
+
+h2.intel {
+    margin: 32px 0 2px 0;
+}
+
+.intel-section {
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+.intel-section-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.intel-section-desc {
+    margin-left: 26px;
+}
+.intel-icon {
+    color: blue;
+}
+.intel-li {
+    margin: 8px 0 8px 26px;
+    font-size: 16px;
+}
+.intel-icon-div {
+    display: inline-block;
+    width: 20px;
+}
+
+.intel-li-link {
+    display: inline-block;
+}
+
+.intel-li-link a {
+    font-weight: bold;
+    color: #005BBB; 
+    text-decoration: none;
+}
+
+.intel-li-desc {
+    display: inline-block;
 }

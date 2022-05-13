@@ -19,4 +19,5 @@ Router.map(function () {
     this.route('art');
   });
   this.route('visitors');
+  this.route('intel');
 });
