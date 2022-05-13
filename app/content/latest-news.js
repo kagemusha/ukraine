@@ -10,8 +10,8 @@ const items = [
     url: `https://twitter.com/KyivIndependent/status/1525045560390168579`,
   },
   {
-    t: `UA wipe out entire Russian battalion at the Donets River`,
-    url: `https://twitter.com/i/events/1525028551010951168`,
+    t: `Russians attempt to cross Siverskyi Donets River - get thumped`,
+    url: `https://www.theguardian.com/world/2022/may/13/ukraine-has-repelled-russias-attempt-to-cross-donbas-river-uk-confirms`,
   },
   {
     t: `May 12 ISW Repport: UA Kharrkiv counterattack continues; Russian troubles at Izium`,
