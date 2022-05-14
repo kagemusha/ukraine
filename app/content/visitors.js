@@ -1,6 +1,23 @@
 /*
+  {
+    p: ``,
+    i: '',
+    d: '2022-05-',
+    u: ``,
+    t: ``,
+  },
+ 
+/// to add
+
  */
 const visitors = [
+  {
+    p: 'GOP Congressional Delegation',
+    i: 'gop-delegation_26mJmCvwV.jpeg',
+    d: '2022-05-14',
+    u: `https://www.cnn.com/2022/05/14/politics/zelensky-ukraine-mcconnell-republican-senators/index.html`,
+    t: `President Zelensky welcomes a US congressional delegation led by Senate Minority Leader Mitch McConnell`,
+  },
   {
     p: 'Jill Biden',
     i: 'jill_biden_QFbM9kmSKU.jpeg',
