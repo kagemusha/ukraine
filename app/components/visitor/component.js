@@ -5,5 +5,4 @@ const VIS_DIR = 'visitors';
 export default class VisitorComponent extends Component {
   visitor = this.args.visitor;
   imgSrc = `${imageBaseUrl}/${VIS_DIR}/${this.visitor.i}`;
-
 }
