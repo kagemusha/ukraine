@@ -24,9 +24,9 @@ const battlefields = [
     d: 'Ukraine has won the battle of America',
   },
   {
-      t: 'Belarus',
-      d: "this potentially another battlefield"
-  }
+    t: 'Belarus',
+    d: 'this potentially another battlefield',
+  },
 ];
 
 export default battlefields;

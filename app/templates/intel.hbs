@@ -21,12 +21,12 @@
             {{#each cat.links as |link| }}
                 <div class="intel-li">
                     <div class="intel-li-link">
-                        <a href={{link.u}} target="_blank" >{{link.n}}</a> -
+                        <a href={{link.u}} target="_blank" rel="noopener noreferrer" >{{link.n}}</a> -
                     </div>
                     <div class="intel-li-desc">
                         {{link.t}}
                         {{#if link.tw}}
-                            <a href={{link.tw}} target="_blank">
+                            <a href={{link.tw}} target="_blank" rel="noopener noreferrer">
                                 <img alt='tw' style="width:30px" src="assets/images/twitter.png" />
                             </a>
                         {{/if}}

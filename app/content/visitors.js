@@ -1,5 +1,5 @@
 /*
-*/
+ */
 const visitors = [
   {
     p: 'Jill Biden',
