@@ -3,8 +3,14 @@
     t: "", 
     url: ''
   },
+  Svyatoslav Vakarchuk performed at the Chernobyl nuclear power plant
+  https://twitter.com/HannaLiubakova/status/1525209702468050944
 */
 const items = [
+  {
+    t: `Israel - given the Lavrov kiss - approves Latvian transfer of Israeli weapons to Ukraine`,
+    url: `https://twitter.com/ukraine_world/status/1525199213419692034`,
+  },
   {
     t: `Additional $521 in EU military aid to Ukraine`,
     url: `https://twitter.com/KyivIndependent/status/1525045560390168579`,
