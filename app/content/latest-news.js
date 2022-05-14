@@ -1,15 +1,17 @@
 /*
-  {
-    t: "", 
-    url: ''
-  },
-  Svyatoslav Vakarchuk performed at the Chernobyl nuclear power plant
-  https://twitter.com/HannaLiubakova/status/1525209702468050944
 */
 const items = [
   {
-    t: `Israel - given the Lavrov kiss - approves Latvian transfer of Israeli weapons to Ukraine`,
-    url: `https://twitter.com/ukraine_world/status/1525199213419692034`,
+    t: `UA General Budanov predicts victory by year end as US GOP delegation visits Kyiv`,
+    url: 'https://www.cnbc.com/2022/05/14/russia-ukraine-live-updates.html'
+  },
+  {
+    t: 'May14 Russian loss estimates: +300 troops, +13 tanks, +34 ATV...',
+    url: 'https://twitter.com/KyivIndependent/status/1525390575368912897',
+  },
+  {
+    t: `Svyatoslav Vakarchuk performed at the Chernobyl nuclear power plant`,
+    url: 'https://euroweeklynews.com/2022/05/14/svyatoslav-vakarchuk-chernobyl-nuclear-power-plant/'
   },
   {
     t: `Additional $521 in EU military aid to Ukraine`,
@@ -24,24 +26,31 @@ const items = [
     url: 'https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-may-12',
   },
   {
-    t: 'May13 Russian loss estimates: +250 troops, +10 tanks, 200th plane!...',
-    url: 'https://twitter.com/AlexKokcharov/status/1525048171726086144',
-  },
-  {
-    t: 'Nato to get reindeer; meatballs to follow (apologies to Finland and Sweden for our silly title :-)',
-    url: 'https://bnn-news.com/finland-announces-intention-to-join-nato-234657',
-  },
-  {
     t: "Poland issues stamp commemorating Zelensky's leadership",
     url: 'https://twitter.com/ukraine_world/status/1524718178261258246',
   },
   {
-    t: 'Lend-lease done; US House passes $40B aid package for Ukraine',
-    url: 'https://www.axios.com/2022/05/11/house-passes-40-billion-ukraine-bill',
-  },
-  {
     t: 'Message from Ukraine to Poland: Dziękujemy',
     url: 'https://twitter.com/visegrad24/status/1524304961202540545',
+  },
+  {
+    t: 'Mariupol: Azovstal remains defiant',
+    url: 'https://twitter.com/mnogobitka/status/1524759610997059585',
+  },
+];
+
+export default items;
+
+
+/* past
+
+  {
+    t: `Israel - given the Lavrov kiss - approves Latvian transfer of Israeli weapons to Ukraine`,
+    url: `https://twitter.com/ukraine_world/status/1525199213419692034`,
+  },
+  {
+    t: 'Nato to get reindeer; meatballs to follow (apologies to Finland and Sweden for our silly title :-)',
+    url: 'https://bnn-news.com/finland-announces-intention-to-join-nato-234657',
   },
   {
     t: 'Dead Russian colonel count hits 40',
@@ -55,10 +64,4 @@ const items = [
     t: 'May 9th: scaled-back parade. "Adverse weather" cancels flyover',
     url: 'https://www.newsweek.com/russia-cancels-military-flyovers-victory-day-may-9-adverse-weather-1704656',
   },
-  {
-    t: 'Mariupol: Azovstal remains defiant',
-    url: 'https://twitter.com/mnogobitka/status/1524759610997059585',
-  },
-];
-
-export default items;
+*/
