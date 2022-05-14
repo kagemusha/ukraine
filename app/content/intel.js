@@ -74,6 +74,11 @@ const items = [
         u: 'https://twitter.com/WarintheFuture',
         t: `periodic updates on the state of the armies, their logistics, system, etc`,
       },
+      {
+        n: 'Russian Military Losses',
+        u: 'https://public.tableau.com/app/profile/karl.wikland/viz/RussianmilitarylossesinUkraine2022/RussianmilitarylossesinUkraine2022',
+        t: `historical tallies of UA MoD estimates`,
+      },
     ],
   },
   {
