@@ -1,3 +1,5 @@
+/*
+*/
 const visitors = [
   {
     p: 'Jill Biden',
@@ -50,6 +52,14 @@ const visitors = [
       to defeat the Russian invasion`,
   },
   {
+    p: 'Charles Michel',
+    i: 'michel_2K-EGp3-7.jpeg ',
+    u: '',
+    d: '2022-04-20',
+    t: `European Council President Charles Michel pledges European solidarity with Ukraine 
+      during a surprise visit to Kyiv and says justice must be done for alleged Russian war crimes `,
+  },
+  {
     p: 'President of Poland and Balitc States',
     i: 'polish-president__PWa_b4aQd.webp',
     u: 'https://notesfrompoland.com/2022/04/13/presidents-of-poland-and-baltic-states-visit-kyiv-to-show-support-for-ukraine/',
@@ -59,7 +69,7 @@ const visitors = [
         and for Russia to be held accountable its horrific invasion`,
   },
   {
-    p: "Marie-Agnes Strack-Zimmermann, Michael Roth and Anton Hofreiter",
+    p: 'Marie-Agnes Strack-Zimmermann, Michael Roth and Anton Hofreiter',
     u: 'https://www.rfi.fr/en/pressure-mounts-on-berlin-as-kyiv-snubs-german-president',
     i: 'roth_ZsLbWD9CW.jpeg',
     d: '2022-04-12',
