@@ -2,6 +2,10 @@
 */
 const items = [
   {
+    t: `Who won Eurovision 2020? Hint: they also won the battles of Kyiv and Kharkiv`,
+    url: 'https://www.bbc.com/news/entertainment-arts-61452678'
+  },
+  {
     t: `UA General Budanov predicts victory by year end as US GOP delegation visits Kyiv`,
     url: 'https://www.cnbc.com/2022/05/14/russia-ukraine-live-updates.html'
   },
