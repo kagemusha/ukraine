@@ -1,6 +1,16 @@
 //https://religionunplugged.com/news/2022/3/22/here-are-the-top-anti-war-rock-songs-that-represent-faith-in-the-ukrainian-resistancenbspnbsp
 const songs = [
   {
+    n: 'Stefania',
+    a: 'Kalush Orchestra',
+    vid: 'Z8Z51no1TD0',
+    t: `
+        <p>
+          Kalush Orchestra's awesome 2022 Eurovision contest winning entry set to wartime scenes
+        </p>
+        `,
+  },
+  {
     n: 'Hey Hey Rise Up',
     a: 'Pink Floyd with Andriy Khlyvnyuk of Boombox',
     vid: 'saEpkcVi1d4',
