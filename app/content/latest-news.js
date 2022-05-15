@@ -1,13 +1,13 @@
 /*
-*/
+ */
 const items = [
   {
-    t: `Who won Eurovision 2020? Hint: they also won the battles of Kyiv and Kharkiv`,
-    url: 'https://www.bbc.com/news/entertainment-arts-61452678'
+    t: `Who won Eurovision 2022? Hint: they also won the battles of Kyiv and Kharkiv`,
+    url: 'https://www.bbc.com/news/entertainment-arts-61452678',
   },
   {
     t: `UA General Budanov predicts victory by year end as US GOP delegation visits Kyiv`,
-    url: 'https://www.cnbc.com/2022/05/14/russia-ukraine-live-updates.html'
+    url: 'https://www.cnbc.com/2022/05/14/russia-ukraine-live-updates.html',
   },
   {
     t: 'May14 Russian loss estimates: +300 troops, +13 tanks, +34 ATV...',
@@ -15,7 +15,7 @@ const items = [
   },
   {
     t: `Svyatoslav Vakarchuk performed at the Chernobyl nuclear power plant`,
-    url: 'https://euroweeklynews.com/2022/05/14/svyatoslav-vakarchuk-chernobyl-nuclear-power-plant/'
+    url: 'https://euroweeklynews.com/2022/05/14/svyatoslav-vakarchuk-chernobyl-nuclear-power-plant/',
   },
   {
     t: `Additional $521 in EU military aid to Ukraine`,
@@ -44,7 +44,6 @@ const items = [
 ];
 
 export default items;
-
 
 /* past
 
