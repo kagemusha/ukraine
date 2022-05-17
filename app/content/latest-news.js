@@ -2,6 +2,10 @@
  */
 const items = [
   {
+    t: 'Sweden Signs NATO Request, Finland Formally Endorses Move',
+    url: 'https://www.nbcchicago.com/news/national-international/sweden-signs-nato-request-finns-formalize-intent-turkey-complicates-path/2834448/',
+  },
+  {
     t: 'Zelensky tells Azovstal heroes to lay down arms to save lives. Prisoner swap expected',
     url: 'https://twitter.com/HannaLiubakova/status/1526312579144028161',
   },
