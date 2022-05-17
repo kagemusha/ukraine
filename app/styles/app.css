@@ -12,6 +12,10 @@ main {
     justify-content: center;
 }
 
+.list-page-header {
+    margin-left: 28px;
+}
+
 .banner-top {
     height: 5px;
     margin-bottom: 10px;
@@ -338,11 +342,14 @@ h2.intel {
     font-weight: bold;
 }
 
+.subsection-title {
+    font-size: 17px;
+    font-weight: bold;
+    margin: 12px 0 12px 26px;
+}
+
 .intel-section-desc {
     margin-left: 26px;
-}
-.intel-icon {
-    color: blue;
 }
 .intel-li {
     margin: 8px 0 8px 26px;
@@ -366,3 +373,10 @@ h2.intel {
 .intel-li-desc {
     display: inline-block;
 }
+
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .5s;
+  }
+  .fade-enter, .fade-leave-to {
+    opacity: 0;
+  }
