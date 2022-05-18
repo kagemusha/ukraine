@@ -24,6 +24,16 @@ const songs = [
             `,
   },
   {
+    n: 'Ukraine will Win! - УКРАЇНА ПЕРЕМОЖЕ',
+    a: 'Ponomarev, Khoma, Topol, Koshov Tkach, and Chorny',
+    key: 'fRuiEv3JRDQ',
+    t: `<p>
+          Many Ukrainians don't seem to be taking the Russians too seriously anymore! Explosions,
+          tractors, and...chickens!
+        </p>
+        `,
+  },
+  {
     n: 'Bayraktar',
     a: 'Taras Borovok',
     key: 'CXVu_DeB4wo',
@@ -123,7 +133,7 @@ const songs = [
 export default songs;
 
 /*
-const temp = [
+others
   {
     n: 'Не Відступати і Не Здаватись',
     key: 'QTdJkYkkQBQ',
@@ -132,16 +142,6 @@ const temp = [
   {
     n: 'Слава Україні! Героям Слава ',
     key: 'L0zsl15cfI0',
-    t: ``,
-  },
-  {
-    n: 'get up - check lyrics is this a war song',
-    key: 'gPiTIhFQp3U',
-    t: ``,
-  },
-  {
-    n: 'I have no home?',
-    key: '',
     t: ``,
   },
   {
@@ -154,34 +154,5 @@ const temp = [
     key: 'DN_KFc9dhNg',
     t: ``,
   },
-  {
-    n: '',
-    key: '',
-    t: ``,
-  },
-  {
-    n: '',
-    key: '',
-    t: ``,
-  },
-  {
-    n: '',
-    key: '',
-    t: ``,
-  },
-  {
-    n: '',
-    key: '',
-    t: ``,
-  },
 ];
-
-const candidates= [
-    "I am ukrainian",
-    "I have no home?",
-    "We will never be brothers"
-    "1944",
-
-25 yrs concert Okean Elzy z4Vvf6MxjMI
-"Okean Elzy - Misto Marii", "https://www.youtube.com/watch?v=grRiTn1Lm2A" 
-];*/
+*/
