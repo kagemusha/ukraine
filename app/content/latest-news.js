@@ -10,8 +10,8 @@ const items = [
     url: 'https://twitter.com/HannaLiubakova/status/1526312579144028161',
   },
   {
-    t: 'May17 Russian loss estimates: +200 troops, +7 tanks, +345ATV...',
-    url: 'https://twitter.com/KyivIndependent/status/1526467383266795521',
+    t: 'May18 Russian loss estimates: +400 troops, +16 tanks, +34 ATV...',
+    url: 'https://twitter.com/KyivIndependent/status/1526826546853564416?s=20&t=xlPvSVo4aeYLC3hgTaUNvg',
   },
   {
     t: `May 16 ISW Report: Russian try to hold some Kharkiv territory; stuck in the east `,
