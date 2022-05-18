@@ -28,8 +28,10 @@ const songs = [
     a: 'Ponomarev, Khoma, Topol, Koshov Tkach, and Chorny',
     key: 'fRuiEv3JRDQ',
     t: `<p>
-          Many Ukrainians don't seem to be taking the Russians too seriously anymore! Explosions,
-          tractors, and...chickens!
+          Many Ukrainians seem to be having trouble taking the Russians seriously anymore 
+        </p>
+         <p> 
+          Explosions, tractors, and bio-warriors...er...chickens. Russian warship go to hey, hey!
         </p>
         `,
   },
