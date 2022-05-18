@@ -1,6 +1,6 @@
 {{page-title "Songs"}}
 <div class="song-cards">
-    {{#each this.model.songs as |song| }}
-        <Song @song={{song}}/>
+    {{#each this.model.songs as |item| }}
+        <YoutubeItem @item={{item}}/>
     {{/each}}
 </div>

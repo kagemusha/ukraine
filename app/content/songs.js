@@ -3,7 +3,7 @@ const songs = [
   {
     n: 'Stefania',
     a: 'Kalush Orchestra',
-    vid: 'Z8Z51no1TD0',
+    key: 'Z8Z51no1TD0',
     t: `
         <p>
           Kalush Orchestra's awesome 2022 Eurovision contest winning entry set to wartime scenes
@@ -13,7 +13,7 @@ const songs = [
   {
     n: 'Hey Hey Rise Up',
     a: 'Pink Floyd with Andriy Khlyvnyuk of Boombox',
-    vid: 'saEpkcVi1d4',
+    key: 'saEpkcVi1d4',
     t: `<p>This David Gilmour and Pink Floyd singing a version of Chervona Kalina with Andriy
             Khlyvnyuk, frontman for popular Ukrainian band Boombox</p>
         
@@ -26,7 +26,7 @@ const songs = [
   {
     n: 'Bayraktar',
     a: 'Taras Borovok',
-    vid: 'CXVu_DeB4wo',
+    key: 'CXVu_DeB4wo',
     t: `
         <p>Written by a Ukranian soldier, this song has a simple answer to many questions
         about the war:</p>
@@ -46,7 +46,7 @@ const songs = [
   {
     n: 'Hug me - Обійми (Obiymy)',
     a: 'Okean Elzy',
-    vid: 'tj7bgjirNfQ',
+    key: 'tj7bgjirNfQ',
     t: `Okean Elzy is one of Ukraine's biggest groups and frontman has been a voice of
         Ukrainian independence for decades. This performance of anti-war song takes place
         in the ruins of a in Kharkiv, bombed by the Russians`,
@@ -54,7 +54,7 @@ const songs = [
   {
     n: 'Melody',
     a: 'Myroslav Skoryk',
-    vid: 'NtObcD4Gjeo',
+    key: 'NtObcD4Gjeo',
     t: `A piece so famous that some Ukranians think it comes from folk music and
       some consider it a second national anthem. In actuality it was composed by 
       Ukraine's greatest contemporary composer, Myroslav Skoryk, who died in 2020`,
@@ -62,7 +62,7 @@ const songs = [
   {
     n: '1944',
     a: 'Jamala',
-    vid: 'wHqPwKnCpbU',
+    key: 'wHqPwKnCpbU',
     t: `<p>The song that won the 2016 Eurovision Song Contest. It's about the 1944
             deportiations of Crimean Tatars , including Jamala's great grandmother, by Josef Stalin</p> 
 
@@ -74,7 +74,7 @@ const songs = [
   {
     n: " I'm from Ukraine - Я з України (Ya z Ukraini) ",
     a: 'Viktor Vinnik and MERI',
-    vid: 'up6j27eMjU8',
+    key: 'up6j27eMjU8',
     t: `<p>Even in Ukraine, Ukrainian is often regarded as the language of the nightengales 
             (and the countryside), whereas Russian is the language of arts and culture.</p>
             
@@ -86,20 +86,20 @@ const songs = [
   {
     n: 'Downpour - Злива (Zliva)',
     a: 'Jamala, Pianoboy, Boom Box',
-    vid: 'p4VpVOfXcyc',
+    key: 'p4VpVOfXcyc',
     t: `Absolutely haunting song asking the summer rains to come
             wash away the horrors of the winter`,
   },
   {
     n: 'Together we are many - Разом нас багато (Razom nas Bahato) ',
-    vid: 'PZLmE1OW2nU',
+    key: 'PZLmE1OW2nU',
     t: `Ukraine's struggle for independence goes back decades - centuries really. This rap song
             became the unofficial anthem of the 2003 Orange Revolution, when Ukrainians rose up
             against Russian-backed Victor Yanokuvich, who tried to steal the presidentail election`,
   },
   {
     n: 'Okean Elzy charity concert All Is Going to Be Alright ',
-    vid: 'M96cN79ONdI',
+    key: 'M96cN79ONdI',
     t: `Okean Elzy” played a charity concert in the Golden Gate metro station in Kyiv, which 
             had been used as a bomb shelter.  Proceeds from the TV version are being donated to 
             help children affected by the war`,
@@ -107,14 +107,14 @@ const songs = [
   {
     n: 'Invicible Ukraine - Непереможна Україна 🇺🇦  - Neperemozhna Ukrayina',
     a: 'Ensemble of Ukrainian Singers',
-    vid: 'jTjSHTzS3T8',
+    key: 'jTjSHTzS3T8',
     t: `An ensemble of Ukrainian artists letting the world know they don't intend to surrender
             their country`,
   },
   {
     n: '25th Anniversay of Independence Concert',
     a: 'Okean Elzy',
-    vid: 'z4Vvf6MxjMI',
+    key: 'z4Vvf6MxjMI',
     t: `Okean Elzy again, celebrating Ukrainian Independence in one of the biggest
             concerts in Ukraine ever`,
   },
@@ -126,52 +126,52 @@ export default songs;
 const temp = [
   {
     n: 'Не Відступати і Не Здаватись',
-    vid: 'QTdJkYkkQBQ',
+    key: 'QTdJkYkkQBQ',
     t: ``,
   },
   {
     n: 'Слава Україні! Героям Слава ',
-    vid: 'L0zsl15cfI0',
+    key: 'L0zsl15cfI0',
     t: ``,
   },
   {
     n: 'get up - check lyrics is this a war song',
-    vid: 'gPiTIhFQp3U',
+    key: 'gPiTIhFQp3U',
     t: ``,
   },
   {
     n: 'I have no home?',
-    vid: '',
+    key: '',
     t: ``,
   },
   {
     n: 'We will never be brothers',
-    vid: '',
+    key: '',
     t: ``,
   },
   {
     n: 'National Anthem played by soldier on violin',
-    vid: 'DN_KFc9dhNg',
+    key: 'DN_KFc9dhNg',
     t: ``,
   },
   {
     n: '',
-    vid: '',
+    key: '',
     t: ``,
   },
   {
     n: '',
-    vid: '',
+    key: '',
     t: ``,
   },
   {
     n: '',
-    vid: '',
+    key: '',
     t: ``,
   },
   {
     n: '',
-    vid: '',
+    key: '',
     t: ``,
   },
 ];
