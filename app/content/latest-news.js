@@ -14,8 +14,8 @@ const items = [
     url: 'https://twitter.com/KyivIndependent/status/1526826546853564416?s=20&t=xlPvSVo4aeYLC3hgTaUNvg',
   },
   {
-    t: `May 16 ISW Report: Russian try to hold some Kharkiv territory; stuck in the east `,
-    url: 'https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-may-16',
+    t: `May 18 ISW Report: Russians trying to hold north of Kharkiv, miniscule gains in East `,
+    url: 'https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-may-18',
   },
   {
     t: `UA troops reach the Russian border!`,
