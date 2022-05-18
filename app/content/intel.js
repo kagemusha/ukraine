@@ -85,6 +85,7 @@ const items = [
     title: 'Battlefield Reporting',
     t: `reports from the field, things going boom, tractors`,
     icon: 'jet-fighter',
+    iconcolor: 'gray',
     links: [
       {
         n: 'UA Weapons',
