@@ -5,5 +5,4 @@ export default class HelpRoute extends Route {
   model() {
     return items;
   }
-
 }
