@@ -26,8 +26,8 @@ const items = [
     url: 'https://twitter.com/KyivIndependent/status/1527200530832949249',
   },
   {
-    t: `May 18 ISW Report: Russians trying to hold north of Kharkiv, miniscule gains in East `,
-    url: 'https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-may-18',
+    t: `May 19 ISW Report: Russians slipping north of Kharkiv, transferring troops to East, partisan activity in Melitopol`,
+    url: 'https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-may-19',
   },
   {
     t: `Who won eurovision 2022? hint: they also won the battles of kyiv and kharkiv`,
