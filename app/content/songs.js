@@ -1,20 +1,20 @@
 //https://religionunplugged.com/news/2022/3/22/here-are-the-top-anti-war-rock-songs-that-represent-faith-in-the-ukrainian-resistancenbspnbsp
 const songs = [
   {
-    n: 'Stefania',
+    t: 'Stefania',
     a: 'Kalush Orchestra',
     key: 'Z8Z51no1TD0',
-    t: `
+    txt: `
         <p>
           Kalush Orchestra's awesome 2022 Eurovision contest winning entry set to wartime scenes
         </p>
         `,
   },
   {
-    n: 'Hey Hey Rise Up',
+    t: 'Hey Hey Rise Up',
     a: 'Pink Floyd with Andriy Khlyvnyuk of Boombox',
     key: 'saEpkcVi1d4',
-    t: `<p>This David Gilmour and Pink Floyd singing a version of Chervona Kalina with Andriy
+    txt: `<p>This David Gilmour and Pink Floyd singing a version of Chervona Kalina with Andriy
             Khlyvnyuk, frontman for popular Ukrainian band Boombox</p>
         
             <p> Chervona Kalina (Red Vibernum in the Meadow) is a Ukrainian patriotic march, 
@@ -24,22 +24,22 @@ const songs = [
             `,
   },
   {
-    n: 'Ukraine will Win! - УКРАЇНА ПЕРЕМОЖЕ',
+    t: 'Ukraine will Win! - УКРАЇНА ПЕРЕМОЖЕ',
     a: 'Ponomarev, Khoma, Topol, Koshov Tkach, and Chorny',
     key: 'fRuiEv3JRDQ',
-    t: `<p>
+    txt: `<p>
           Many Ukrainians seem to be having trouble taking the Russians seriously anymore 
         </p>
          <p> 
-          Explosions, tractors, and bio-warriors...er...chickens. Russian warship go to hey, hey!
+          Explosions, tractors, and bio-warriors...er...chickens...but anyway
         </p>
         `,
   },
   {
-    n: 'Bayraktar',
+    t: 'Bayraktar',
     a: 'Taras Borovok',
     key: 'CXVu_DeB4wo',
-    t: `
+    txt: `
         <p>Written by a Ukranian soldier, this song has a simple answer to many questions
         about the war:</p>
 
@@ -56,26 +56,26 @@ const songs = [
         `,
   },
   {
-    n: 'Hug me - Обійми (Obiymy)',
+    t: 'Hug me - Обійми (Obiymy)',
     a: 'Okean Elzy',
     key: 'tj7bgjirNfQ',
-    t: `Okean Elzy is one of Ukraine's biggest groups and frontman has been a voice of
+    txt: `Okean Elzy is one of Ukraine's biggest groups and frontman has been a voice of
         Ukrainian independence for decades. This performance of anti-war song takes place
         in the ruins of a in Kharkiv, bombed by the Russians`,
   },
   {
-    n: 'Melody',
+    t: 'Melody',
     a: 'Myroslav Skoryk',
     key: 'NtObcD4Gjeo',
-    t: `A piece so famous that some Ukranians think it comes from folk music and
+    txt: `A piece so famous that some Ukranians think it comes from folk music and
       some consider it a second national anthem. In actuality it was composed by 
       Ukraine's greatest contemporary composer, Myroslav Skoryk, who died in 2020`,
   },
   {
-    n: '1944',
+    t: '1944',
     a: 'Jamala',
     key: 'wHqPwKnCpbU',
-    t: `<p>The song that won the 2016 Eurovision Song Contest. It's about the 1944
+    txt: `<p>The song that won the 2016 Eurovision Song Contest. It's about the 1944
             deportiations of Crimean Tatars , including Jamala's great grandmother, by Josef Stalin</p> 
 
             <p>It also evokes current oppression of Crimean Tatars since the Russian
@@ -84,10 +84,10 @@ const songs = [
             `,
   },
   {
-    n: " I'm from Ukraine - Я з України (Ya z Ukraini) ",
+    t: " I'm from Ukraine - Я з України (Ya z Ukraini) ",
     a: 'Viktor Vinnik and MERI',
     key: 'up6j27eMjU8',
-    t: `<p>Even in Ukraine, Ukrainian is often regarded as the language of the nightengales 
+    txt: `<p>Even in Ukraine, Ukrainian is often regarded as the language of the nightengales 
             (and the countryside), whereas Russian is the language of arts and culture.</p>
             
             <p>This song asserts that Ukrainian is the language of Ukraine, and that if you
@@ -96,38 +96,38 @@ const songs = [
             </p>`,
   },
   {
-    n: 'Downpour - Злива (Zliva)',
+    t: 'Downpour - Злива (Zliva)',
     a: 'Jamala, Pianoboy, Boom Box',
     key: 'p4VpVOfXcyc',
-    t: `Absolutely haunting song asking the summer rains to come
+    txt: `Absolutely haunting song asking the summer rains to come
             wash away the horrors of the winter`,
   },
   {
-    n: 'Together we are many - Разом нас багато (Razom nas Bahato) ',
+    t: 'Together we are many - Разом нас багато (Razom nas Bahato) ',
     key: 'PZLmE1OW2nU',
-    t: `Ukraine's struggle for independence goes back decades - centuries really. This rap song
+    txt: `Ukraine's struggle for independence goes back decades - centuries really. This rap song
             became the unofficial anthem of the 2003 Orange Revolution, when Ukrainians rose up
             against Russian-backed Victor Yanokuvich, who tried to steal the presidentail election`,
   },
   {
-    n: 'Okean Elzy charity concert All Is Going to Be Alright ',
+    t: 'Okean Elzy charity concert All Is Going to Be Alright ',
     key: 'M96cN79ONdI',
-    t: `Okean Elzy” played a charity concert in the Golden Gate metro station in Kyiv, which 
+    txt: `Okean Elzy” played a charity concert in the Golden Gate metro station in Kyiv, which 
             had been used as a bomb shelter.  Proceeds from the TV version are being donated to 
             help children affected by the war`,
   },
   {
-    n: 'Invicible Ukraine - Непереможна Україна 🇺🇦  - Neperemozhna Ukrayina',
+    t: 'Invicible Ukraine - Непереможна Україна 🇺🇦  - Neperemozhna Ukrayina',
     a: 'Ensemble of Ukrainian Singers',
     key: 'jTjSHTzS3T8',
-    t: `An ensemble of Ukrainian artists letting the world know they don't intend to surrender
+    txt: `An ensemble of Ukrainian artists letting the world know they don't intend to surrender
             their country`,
   },
   {
-    n: '25th Anniversay of Independence Concert',
+    t: '25th Anniversay of Independence Concert',
     a: 'Okean Elzy',
     key: 'z4Vvf6MxjMI',
-    t: `Okean Elzy again, celebrating Ukrainian Independence in one of the biggest
+    txt: `Okean Elzy again, celebrating Ukrainian Independence in one of the biggest
             concerts in Ukraine ever`,
   },
 ];
@@ -137,24 +137,24 @@ export default songs;
 /*
 others
   {
-    n: 'Не Відступати і Не Здаватись',
+    t: 'Не Відступати і Не Здаватись',
     key: 'QTdJkYkkQBQ',
-    t: ``,
+    txt: ``,
   },
   {
-    n: 'Слава Україні! Героям Слава ',
+    t: 'Слава Україні! Героям Слава ',
     key: 'L0zsl15cfI0',
-    t: ``,
+    txt: ``,
   },
   {
-    n: 'We will never be brothers',
+    t: 'We will never be brothers',
     key: '',
-    t: ``,
+    txt: ``,
   },
   {
-    n: 'National Anthem played by soldier on violin',
+    t: 'National Anthem played by soldier on violin',
     key: 'DN_KFc9dhNg',
-    t: ``,
+    txt: ``,
   },
 ];
 */
