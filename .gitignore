@@ -32,3 +32,6 @@
 
 /tmp/**
 .vercel
+
+#misc
+_updates.txt
