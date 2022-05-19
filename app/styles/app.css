@@ -111,7 +111,7 @@ a.help-btn {
 .countdown-bar {
     height: 30px;
     background-image: linear-gradient(180deg, #005BBB,#FFD500);
-    margin: 20px 0;
+    margin: 20px 0 0 0;
 }
 
 .inner-countdown-bar {
@@ -125,12 +125,29 @@ a.help-btn {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
 }
+
+.under-countdown {
+    height: 60px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.under-countdown a {
+    text-decoration: none;
+    color: #005BBB; 
+    text-shadow:#FFD500;
+}
+
 .todays-news {
     display: flex;
     flex-direction: column;
     align-items: center;
     /* width: 100%; */
-    margin: 60px 12px;
+    margin: 0 12px 60px 12px;
     border-top: 1px solid;
     border-bottom: 1px solid;
     padding: 16px;
