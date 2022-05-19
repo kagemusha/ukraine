@@ -2,6 +2,10 @@
  */
 const items = [
   {
+    t: `Senate approves $40B Aid Package to Ukraine. Awaits Biden's signature`,
+    url: 'https://www.cnn.com/2022/05/19/politics/senate-vote-ukraine-aid-package/index.html',
+  },
+  {
     t: `UNSTOPPABLE: Kharkiv cat Stepan follows up Ukraine Eurovision triumph with Influencer Award win`,
     url: 'https://twitter.com/KyivIndependent/status/1527236169251049473',
   },
