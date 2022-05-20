@@ -22,8 +22,8 @@ const items = [
     url: `https://www.pravda.com.ua/eng/news/2022/05/19/7347193/`,
   },
   {
-    t: 'May19 Russian loss estimates: +200 troops, +3 tanks, +20 APV, +14 drones...',
-    url: 'https://twitter.com/KyivIndependent/status/1527200530832949249',
+    t: 'May 20 Russian loss estimates: +200 troops, +9 tanks, +27 APV, +5 drones...',
+    url: 'https://twitter.com/KyivIndependent/status/1527538021758795776',
   },
   {
     t: `May 19 ISW Report: Russians slipping north of Kharkiv, transferring troops to East, partisan activity in Melitopol`,
