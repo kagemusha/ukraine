@@ -12,6 +12,13 @@
  */
 const visitors = [
   {
+    p: 'Mark Daly, Sean Ó Fearghail',
+    i: 'daly_vgUZx9_Tn.png',
+    d: '2022-05-20',
+    u: `https://twitter.com/EuromaidanPress/status/1527648536543756288`,
+    t: `President Zelensky welcomes Ireland Senate Chair Mark Daly and legislator Sean Ó Fearghail`,
+  },
+  {
     p: 'GOP Congressional Delegation',
     i: 'gop-delegation_26mJmCvwV.jpeg',
     d: '2022-05-14',
